@@ -2,7 +2,7 @@
 
 ### Note
 
-- Tested on Reaper x64 v6.23 on Windows 10
+- Tested on Reaper x64 v6.23 - Windows 10
 - Only one my custom script download
 - Install **[SWS](https://www.sws-extension.org/)** and  **[ReaPack](https://reapack.com/)**
 - Customizable _(work in progress)_
