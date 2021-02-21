@@ -17,6 +17,7 @@
 - Launch _Script: cfillion_Apply render preset (create action).lua_ and select Default preset
 ![](images/cfillion_apply_render.png)
 
+### Creation
 **_Create this custom action on Reaper in this order:_**
 
 | Function |         Name Script           |
@@ -29,3 +30,7 @@
 | **6. Move last track up to the top**   | Script: X-Raym_Move selected tracks up to the top of the visible track list.lua  |
 | **7. Disabel add render**  | Script: mpl_Disable add rendered files to project after render.lua     |
 | **8. Apply render preset**   | Script: Apply render preset - Default.lua     |
+
+
+For use this Custom action you select time to render and video track
+Launch and voilà!
