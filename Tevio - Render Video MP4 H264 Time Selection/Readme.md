@@ -4,9 +4,9 @@ Custom: Tevio - Render Video MP4 H264 Time Selection
 
 ### Create this custom action on Reaper in this order:
 
-| Function name | Description                    |
+| Function |         Name Script           |
 | ------------- | ------------------------------ |
-| `help()`      | Script: mpl_Set render directory to 'Render' in project folder.lua|
+| `Set and Create subdirectory for render video`      | Script: mpl_Set render directory to 'Render' in project folder.lua|
 | `destroy()`   | **Destroy your computer!**     |
 
 1. 
