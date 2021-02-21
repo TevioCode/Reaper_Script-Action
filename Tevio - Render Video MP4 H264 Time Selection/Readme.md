@@ -9,11 +9,10 @@
 
 ### Preparation
 
-- Save your project
-- 
-![](images/Default%20Preset%20Rendering.png)
-
-> Follow your heart.
+- Save your project.
+- Save your audio preset that you usually use with **'Default'** name.
+![](images/Default%20Preset%20Rendering.png | width=100)
+- Launch _Script: cfillion_Apply render preset (create action).lua_ and select Default preset
 
 **_Create this custom action on Reaper in this order:_**
 
