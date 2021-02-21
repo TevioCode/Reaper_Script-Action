@@ -6,6 +6,7 @@
 - Tested on Reaper x64 v6.23 on Windows 10
 - Only one my custom script download
 - Install **[SWS](https://www.sws-extension.org/)** and  **[ReaPack](https://reapack.com/)**
+- Download and install **`<download>` : [Tevio Script_Render_Video_timesel](Script/Tevio%20-%20Set%20render%20time%20selection%20Track%20format%20to%20Video%20MP4%20h264.lua)**
 - Customizable _(work in progress)_
 
 ### Preparation
