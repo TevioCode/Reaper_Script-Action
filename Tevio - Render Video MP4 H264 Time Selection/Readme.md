@@ -1,6 +1,6 @@
+![](images/logo_teviocode.png)
 ## Tevio - Render Video mp4 h264 Time Selection
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=pull_request)
-
+![Status](https://img.shields.io/badge/Status-Work%20in%20progress-green) ![Status](https://img.shields.io/badge/version-1.0-blue)
 ### Note
 
 - Tested on Reaper x64 v6.23 on Windows 10
