@@ -1,6 +1,9 @@
 ![](images/logo_teviocode_smally.png)
 ## Tevio - Render Video mp4 h264 Time Selection
 ![Status](https://img.shields.io/badge/Status-Work%20in%20progress-green) ![Status](https://img.shields.io/badge/version-1.0-blue)
+
+`description:` This custom action is used to render a portion of video selected over time in a new track.
+
 ### Note
 
 - Tested on Reaper x64 v6.23 on Windows 10
