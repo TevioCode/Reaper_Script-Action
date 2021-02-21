@@ -1,6 +1,13 @@
-## Tevio - Render Video MP4 H264 Time Selection
+## Tevio - Render Video mp4 h264 Time Selection
 
-_Create this custom action on Reaper in this order:_
+### Note
+
+- Tested on Reaper x64 v6.23 on Windows 10
+- Only one my custom script download
+- Install **[SWS](https://www.sws-extension.org/)** and  **[ReaPack](https://reapack.com/)**
+- Customizable _(work in progress)_
+
+**_Create this custom action on Reaper in this order:_**
 
 | Function |         Name Script           |
 | ------------- | ------------------------------ |
