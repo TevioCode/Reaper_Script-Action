@@ -1,6 +1,6 @@
 
 ## Tevio - Render Video MP4 H264 Time Selection
-###_Custom: Tevio - Render Video MP4 H264 Time Selection_
+### _Custom: Tevio - Render Video MP4 H264 Time Selection_
 
 Create this custom action on Reaper in this order:
 
