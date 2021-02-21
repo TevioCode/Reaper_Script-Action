@@ -1,4 +1,4 @@
-![](images/logo_teviocode_small.png)
+![](images/logo_teviocode_smally.png)
 ## Tevio - Render Video mp4 h264 Time Selection
 ![Status](https://img.shields.io/badge/Status-Work%20in%20progress-green) ![Status](https://img.shields.io/badge/version-1.0-blue)
 ### Note
