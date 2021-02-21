@@ -2,7 +2,7 @@
 # Tevio - Render Video MP4 H264 Time Selection
 Custom: Tevio - Render Video MP4 H264 Time Selection
 
-###Create this custom action on Reaper in this order:
+### Create this custom action on Reaper in this order:
 
 1. Script: mpl_Set render directory to 'Render' in project folder.lua
 2. Script: Tevio - Set render time selection Track format to Video MP4 h264.lua
