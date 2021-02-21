@@ -21,7 +21,7 @@
 | Function |         Name Script           |
 | ------------- | ------------------------------ |
 | **1. Create subfolder**      | Script: mpl_Set render directory to 'Render' in project folder.lua|
-| **2. Setting video**   | Script: Tevio - Set render time selection Track format to Video MP4 h264.lua `<download>` : [Tevio Script_Render_Video_timesel](Script/Tevio - Set render time selection Track format to Video MP4 h264.lua)|
+| **2. Setting video**   | Script: Tevio - Set render time selection Track format to Video MP4 h264.lua `<download>` : [Tevio Script_Render_Video_timesel](Script/Tevio%20-%20Set%20render%20time%20selection%20Track%20format%20to%20Video%20MP4%20h264.lua)|
 | **3. AutoAdd rendered file**   | Script: mpl_Enable add rendered files to project after render.lua     |
 |**4.  Render**  | File: Render project, using the most recent render settings, auto-close render dialog     |
 | **5. Select last track**   | Script: me2beats_Select only last track.lua     |
