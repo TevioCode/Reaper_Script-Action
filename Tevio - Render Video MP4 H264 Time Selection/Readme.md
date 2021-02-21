@@ -7,6 +7,14 @@
 - Install **[SWS](https://www.sws-extension.org/)** and  **[ReaPack](https://reapack.com/)**
 - Customizable _(work in progress)_
 
+### Preparation
+
+- Save your project
+- 
+![](images/Default%20Preset%20Rendering.png)
+
+> Follow your heart.
+
 **_Create this custom action on Reaper in this order:_**
 
 | Function |         Name Script           |
