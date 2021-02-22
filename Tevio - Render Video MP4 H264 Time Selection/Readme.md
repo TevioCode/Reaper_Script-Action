@@ -40,6 +40,8 @@
 | **7. Disabel add render**  | Script: mpl_Disable add rendered files to project after render.lua     |
 | **8. Apply render preset**   | Script: Apply render preset - Default.lua     |
 
+<img src="images/edit_custom_action.png" width="75%" height="75%">
+
 ### Execute
 For use this Custom action you select time to render and video track.
 Launch and voilà!
