@@ -4,6 +4,8 @@
 
 `description:` This custom action is used to render a portion of video selected over time in a new track.
 
+<img src="images/demo.gif" width="885" height="500">
+
 ### Note
 
 - Tested on Reaper x64 v6.23 on Windows 10
@@ -17,9 +19,12 @@
 - Save your project.
 - Save your audio preset that you usually use with **'Default'** name.
 
-![](images/Default%20Preset%20Rendering.png)
+<img src="images/Default%20Preset%20Rendering.png" width="75%" height="75%">
+
 - Launch _Script: cfillion_Apply render preset (create action).lua_ and select Default preset
-![](images/cfillion_apply_render.png)
+
+<img src="images/cfillion_apply_render.png" width="75%" height="75%">
+
 
 ### Creation
 **_Create this custom action on Reaper in this order:_**
